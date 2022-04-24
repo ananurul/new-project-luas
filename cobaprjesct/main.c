@@ -8,7 +8,7 @@ int pilihan,pil;
 float sisi, luas, r, L, t, p, volume, ta, tp, k ;
 
     mulai:
-    printf("=== PROGRAM MENGHITUNG LUAS DAN VOLUME ===\n");
+    printf("=== PROGRAM KELOMPOK SISTEM OPERASI ===\n");
     printf("\n1. Menghitung Luas Kubus\n");
     printf("2. Menghitung Luas Bola\n");
     printf("3. Menghitung Luas Prisma\n");
